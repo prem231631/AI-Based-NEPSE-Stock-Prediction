@@ -14,8 +14,8 @@ AI-powered stock prediction platform for Nepal Stock Exchange.
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Prediction
 
-![Prediction](screenshots/AI Predictions.png)
+![AI_Prediction](screenshots/AI_Predictions.png)
